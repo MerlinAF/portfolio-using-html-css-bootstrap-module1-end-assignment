@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  scroll-behavior: smooth;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+ h4 {
+  color:black
+  
+ }
+
+section {
+  padding: 60px 0;
+  background-color:rgb(43, 153, 226)  
+}
+
+footer a {
+  text-decoration: none;
+}
